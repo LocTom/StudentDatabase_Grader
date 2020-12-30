@@ -1,0 +1,3 @@
+/mnt/c/Users/tomer/source/repos/LinuxConsole1/students
+/mnt/c/Users/tomer/source/repos/LinuxConsole1/test_input.qa
+/mnt/c/Users/tomer/source/repos/LinuxConsole1/output.qa
